@@ -93,14 +93,8 @@ I build things close to the metal (**Linux kernel, VFS, RTOS**) and also ship **
 
 ---
 
-## 📊 Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=NikkiRe&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikkiRe&layout=compact&hide_border=true&bg_color=00000000&cache_seconds=86400)
-
----
-
 ## 🐍
 
 ![snake](https://raw.githubusercontent.com/NikkiRe/NikkiRe/output/github-snake-dark.svg)
+
 
