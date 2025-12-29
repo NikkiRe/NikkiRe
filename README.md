@@ -42,17 +42,6 @@ I build things close to the metal (**Linux kernel, VFS, RTOS**) and also ship **
 
 **🧠 [libmlp](https://github.com/NikkiRe/libmlp)** — A lightweight, pure C implementation of a multilayer perceptron (MLP) — a feedforward neural network capable of supervised and batch learning.
 
-**🐧 [xv6-riscv-labs](https://github.com/NikkiRe/xv6-riscv-labs)** — A fork of xv6-riscv, a small Unix-like teaching operating system for the RISC-V (RV64) architecture, along with implementations for multiple course labs.
-
-**🦩 [waddle](https://github.com/NikkiRe/waddle)** — An object-oriented static-typing programming language with type inference, inspired by Kotlin and Ruby.
-
-**🦎 [yascriptlang](https://github.com/NikkiRe/yascriptlang)** — A simple Lisp-inspired scripting language that compiles to JavaScript.
-
-**🍿 [MyFilmList](https://github.com/NikkiRe/MyFilmList)** — A social networking platform and catalog for movies and TV series, allowing you to share your thoughts and discover new favorites.
-
-**🧙 [tollowy-api](https://github.com/NikkiRe/tollowy-api)** — REST API backend built for Followy-Dev to update and improve the backend part of online social media.
-
-**🎓 [itmo](https://github.com/NikkiRe/itmo)** — Educational materials and laboratory works for ITMO University's Software and Application Software program (2022-2026).
 
 ---
 
@@ -114,3 +103,4 @@ I build things close to the metal (**Linux kernel, VFS, RTOS**) and also ship **
 ## 🐍
 
 ![snake](https://raw.githubusercontent.com/NikkiRe/NikkiRe/output/github-snake-dark.svg)
+
