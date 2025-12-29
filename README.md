@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:nikitos139999@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nikitos139999%40gmail.com-0b0b0b?style=for-the-badge"></a>
-  <a href="https://t.me/nikitos139999"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@nikitos139999-0b0b0b?style=for-the-badge"></a>
+  <a href="https://t.me/nikkoddy"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@nikitos139999-0b0b0b?style=for-the-badge"></a>
   <a href="https://github.com/NikkiRe"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-NikkiRe-0b0b0b?style=for-the-badge"></a>
 </p>
 
