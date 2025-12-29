@@ -1,47 +1,61 @@
-<div align="center">
-# =�K� Hi! I'm Nikita
-I'm a passionate software developer and 3rd year Computer Science student at ITMO University, specializing in Information Technologies and Programming.
-Currently exploring the depths of systems programming, web development, and everything in between.
-=ج� Feel free to reach out or ask me anything in the issues section!
-</div>
+<!-- Profile README for github.com/NikkiRe -->
+
+<h1 align="center">Nikita (NikkiRe)</h1>
+<p align="center"><i>kernel panic — but make it work.</i></p>
+
+<p align="center">
+  <a href="mailto:nikitos139999@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nikitos139999%40gmail.com-0b0b0b?style=for-the-badge"></a>
+  <a href="https://t.me/nikitos139999"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@nikitos139999-0b0b0b?style=for-the-badge"></a>
+  <a href="https://github.com/NikkiRe"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-NikkiRe-0b0b0b?style=for-the-badge"></a>
+</p>
+
 ---
-## =؀� A few projects I've made:
-**<�� [MyFilmList](https://github.com/NikkiRe/MyFilmList)** - A social networking platform and catalog for movies and TV series, allowing you to share your thoughts and discover new favorites.
-**>ة� [waddle](https://github.com/NikkiRe/waddle)** - An object-oriented static-typing programming language with type inference, inspired by Kotlin and Ruby.
-**>؎� [yascriptlang](https://github.com/NikkiRe/yascriptlang)** - A simple Lisp-inspired scripting language that compiles to JavaScript.
-**<خ� [stm32-freertos-tetris](https://github.com/NikkiRe/stm32-freertos-tetris)** - A fully functional Tetris game implementation running on STM32F427VIT6 microcontroller using FreeRTOS real-time operating system.
-**>��� [libmlp](https://github.com/NikkiRe/libmlp)** - A lightweight, pure C implementation of a multilayer perceptron (MLP)   a feedforward neural network capable of supervised and batch learning.
-**=ؾ� [vtfs-virtual-filesystem](https://github.com/NikkiRe/vtfs-virtual-filesystem)** - A Linux kernel module implementing a virtual file system with dual-mode operation: RAM mode for in-memory storage and Server mode for persistent remote storage via HTTP API.
-**<ؓ� [itmo](https://github.com/NikkiRe/itmo)** - Educational materials and laboratory works for ITMO University's Software and Application Software program (2022-2026).
-**<�� [Client-server-GUI-application](https://github.com/NikkiRe/Client-server-GUI-application)** - A modern web application for validating whether points fall within a specific geometric area. Built with Angular and Java, featuring user authentication, interactive canvas visualization, and more.
-**>��� [tollowy-api](https://github.com/NikkiRe/tollowy-api)** - REST API backend built for Followy-Dev to update and improve the backend part of online social media.
-**=���� [shoeshop](https://github.com/NikkiRe/shoeshop)** - E-commerce website built as a training project.
-**=�'� [xv6-riscv-labs](https://github.com/NikkiRe/xv6-riscv-labs)** - A fork of xv6-riscv, a small Unix-like teaching operating system for the RISC-V (RV64) architecture, along with implementations for multiple course labs.
+
+### 👋 Hey
+I’m **Nikita**, a **3rd-year Computer Science student at ITMO University (IVT)**.
+I enjoy building things close to the metal (kernels, RTOS, file systems) and then jumping back to web when I want pixels and APIs.
+
+- 🧠 Current interests: **Linux kernel**, **OS internals**, **embedded**, **backend architectures**
+- 💬 Ask me anything via Issues in this repo
+
 ---
-## >��� Toolbox
-### Languages
-**Java** "  **C** "  **TypeScript** "  **JavaScript** "  **Ruby** "  **Python**
-### Backend
-**Java** "  **Spring** "  **Spring Boot** "  **Jakarta EE** "  **Ruby on Rails** "  **REST API** "  **GraphQL**
-### Frontend
-**TypeScript** "  **JavaScript** "  **Angular** "  **React** "  **Next.js** "  **HTML5** "  **CSS** "  **SASS** "  **Tailwind CSS**
-### Systems & Embedded
-**C** "  **Linux Kernel Modules** "  **FreeRTOS** "  **STM32** "  **xv6** "  **RISC-V**
-### Databases
-**PostgreSQL** "  **SQLite** "  **MongoDB** "  **Redis**
-### DevOps & Tools
-**Docker** "  **Git** "  **GitHub Actions** "  **Linux** "  **Bash**
-### Other
-**Machine Learning** "  **Neural Networks** "  **Compiler Design** "  **Language Development**
+
+### 🧰 Toolbox (short & honest)
+**Languages:** C, Java, TypeScript, JavaScript, Python, Bash  
+**Systems:** Linux, Kernel Modules, VFS, xv6 (RISC-V), FreeRTOS, STM32  
+**Backend:** Spring Boot, Jakarta EE (JAX-RS), Hibernate, REST, JWT  
+**Frontend:** Angular, NgRx, PrimeNG, HTML/CSS  
+**Data/Infra:** PostgreSQL, Docker, GitHub Actions, CMake/Make
+
 ---
-## =��� GitHub Stats
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikkiRe&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikkiRe&layout=compact&theme=radical&hide_border=true)
-</div>
+
+### 🔥 Featured builds
+- 🧩 **VTFS** — virtual file system as a Linux kernel module (RAM mode + server-backed mode via HTTP)
+- 🕹️ **STM32 FreeRTOS Tetris** — RTOS tasks + hardware integration + classic gameplay
+- 🎯 **Point Area Checker** — Angular + Java backend + PostgreSQL, interactive canvas + JWT auth
+- 🧬 **libmlp** — lightweight MLP implementation in pure C
+- 🧪 **xv6-riscv labs** — syscalls, memory allocator, copy-on-write fork
+
+Quick links:
+- VTFS: https://github.com/NikkiRe/vtfs-virtual-filesystem
+- STM32 Tetris: https://github.com/NikkiRe/stm32-freertos-tetris
+- Point Area Checker: https://github.com/NikkiRe/Client-server-GUI-application
+- libmlp: https://github.com/NikkiRe/libmlp
+- xv6 labs: https://github.com/NikkiRe/xv6-riscv-labs
+
 ---
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=NikkiRe&color=blueviolet&style=flat-square)
-</div>
+
+### 📊 Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NikkiRe&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikkiRe&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NikkiRe&style=flat&color=0b0b0b" alt="profile views"/>
+</p>
+
+---
+
+### 🤝 Collab
+If you’re into **low-level**, **kernels**, **RTOS**, or **clean backend design** — let’s build something.
