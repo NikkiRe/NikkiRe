@@ -23,7 +23,7 @@
 ---
 
 ## 👋 About
-I'm **Nikita**, a **3rd-year CS student at ITMO University (IVT)**.
+I'm **Nikita**, a **4th-year CS student at ITMO University (IVT)**.
 I build things close to the metal (**Linux kernel, VFS, RTOS**) and also ship **backend & web apps** when I want APIs and UI.
 
 - 🔭 Focus: **Linux kernel / OS internals / embedded**
