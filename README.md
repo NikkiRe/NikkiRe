@@ -29,6 +29,8 @@ I'm **Nikita**, a fourth-year CS student at **ITMO University**. I build backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-151515?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-151515?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-151515?style=for-the-badge&logo=hibernate&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-151515?style=for-the-badge)
+![Protobuf](https://img.shields.io/badge/Protobuf-151515?style=for-the-badge)
 
 #### Data & messaging
 
@@ -82,13 +84,14 @@ Cashflow planning for small businesses: invoices, recurring expenses, bank histo
 
 ### [Resource Booking API](https://github.com/NikkiRe/resource-booking)
 
-Booking API for shared rooms and equipment, with availability search and cancellation.
+Booking API for shared rooms and equipment, with availability search and cancellation through REST and gRPC.
 
+- **REST and gRPC.** Both APIs share the same booking logic. A Protobuf contract generates client and server stubs; reflection makes the gRPC service discoverable with grpcurl.
 - **No double booking.** PostgreSQL exclusion constraints reject overlapping reservations even under concurrent requests.
 - **Safe retries.** Idempotency keys let clients repeat requests without creating another reservation. The booking, request fingerprint and saved response are committed in one transaction.
-- **Tested against a real database.** Integration tests cover concurrent bookings, duplicate requests, cancellation and rollback with PostgreSQL in Testcontainers.
+- **Tested against a real database.** Integration tests exercise both APIs, including retries between REST and gRPC, concurrent bookings, cancellation and rollback with PostgreSQL in Testcontainers.
 
-`Kotlin` `Spring Boot` `Spring JDBC` `PostgreSQL` `Flyway` `Testcontainers` `Docker Compose`
+`Kotlin` `Spring Boot` `gRPC` `Protobuf` `Spring JDBC` `PostgreSQL` `Flyway` `Testcontainers` `Docker Compose`
 
 ### [Cloud File Storage](https://github.com/NikkiRe/CloudFileStorage)
 
