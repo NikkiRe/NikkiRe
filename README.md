@@ -19,6 +19,8 @@ Telegram: [@nikkoddy](https://t.me/nikkoddy) · Email: [nikitos139999@gmail.com]
   с помощью LLM. Мой вклад: прототип для домена Nanozymes (ветка `task1`), доработка
   интерфейса на Streamlit и инструкции запуска. Подробнее в
   [PORTFOLIO.md](https://github.com/NikkiRe/DataCon2026/blob/main/PORTFOLIO.md).
+- **[libmlp](https://github.com/NikkiRe/libmlp)**: многослойный перцептрон на C без сторонних
+  библиотек (прямой проход, backprop, SGD) и терминальное демо Pong, где сеть учится во время игры.
 
 ## Backend
 
@@ -36,7 +38,7 @@ Telegram: [@nikkoddy](https://t.me/nikkoddy) · Email: [nikitos139999@gmail.com]
 
 Лабораторные по xv6 на RISC-V (системные вызовы, перевод структур ядра на buddy-аллокатор,
 copy-on-write fork), файловая система в виде модуля ядра Linux с хранением в памяти или на сервере
-по HTTP, тетрис на STM32 под FreeRTOS (в паре с Кириллом Слепцовым).
+по HTTP, тетрис на STM32 под FreeRTOS (в команде с Кириллом Слепцовым и Арменом Арабяном).
 
 ## Стек
 
